@@ -13,4 +13,4 @@
 
 
 <h2>Deploy do projeto</h2>
-<a href="https://ana-cassia-invernizzi.github.io/numero-secreto/">Decodificador</a>
+<a href="https://ana-cassia-invernizzi.github.io/programa-one-desafio-1/">Decodificador</a>
